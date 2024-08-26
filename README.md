@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AJsuper007
+- 👀 I’m interested in creating websites with Python, Javascirpt, Ruby, HTML, CSS, Java and collaborating with the micro:bit.
+- 🌱 I’m currently learning micro:bit and  how they are used in life.
+- 💞️ I’m looking to collaborate on using micro:bit so they can be turned into working machines.
+- 📫 How to reach me on github or gmail: aindriusjohnson@gmail.com
+- 😄 Pronouns: Just my name: Aindrius
+- ⚡ Fun fact: I started coding when I was a child and I still am a child.
