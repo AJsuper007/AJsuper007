@@ -27,3 +27,13 @@
 [![](https://visitcount.itsvg.in/api?id=AJsuper007&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajsuper007&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajsuper007&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajsuper007&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajsuper007&theme=great_gatsby)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajsuper007&theme=great_gatsby&utcOffset=8)
