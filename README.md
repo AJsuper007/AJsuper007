@@ -38,5 +38,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajsuper007&theme=great_gatsby&utcOffset=8)
 
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/c04e3fed-9e0f-44d3-af1c-201f0017e87a" />
+[<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/c04e3fed-9e0f-44d3-af1c-201f0017e87a" />](https://media.tenor.com/3DOa1ly_iAUAAAAM/stick-bug-rick-roll.gif)
 
