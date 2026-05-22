@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+coder+who+loves+gaming;Working+on+future+websites;Gen+A+RULES!!!!!!!!!!)](https://git.io/typing-svg)
 
-<h2>My name is AJsuper007 (not my real name) and I love coding.</h2>
+<h2>I'm AJ and I love coding.</h2>
 <p>I have been working on some projects but sadly I have restarted. Coding has taught me many things about life and about the World Wide Web. Technology will help us in life as we advance it. I believe everyone can code so they can build their own websites, make their own games and even create apps.
 
 # 💫 About Me:
